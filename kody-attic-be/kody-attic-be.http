@@ -1,0 +1,6 @@
+@kody_attic_be_HostAddress = http://localhost:5010
+
+GET {{kody_attic_be_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
