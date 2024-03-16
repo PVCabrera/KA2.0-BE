@@ -33,9 +33,6 @@ app.UseCors("MyCorsPolicy");
 
 app.UseAuthorization();
 
-
-
-
 app.MapControllers();
 
 app.Run();
